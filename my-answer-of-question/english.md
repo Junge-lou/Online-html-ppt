@@ -14,7 +14,7 @@ For example,
 
 in the story **The Dead**,
   
-snow symbolizes how life and death are connected. 
+snow symbolizes how life and death are connected.
 
 Joyce’s writing makes me think deeply about human emotions and cultural problems.
 
@@ -44,9 +44,9 @@ Practice reading this aloud slowly. Focus on key words: "stuck," "snow," "skills
 
 ## 专业
 
-### the influence of process parameters (scanning speed, laser power and scanning distance) on the temperature field of TC4 alloy melted by laser selective zone melting
+### the influence of process parameters (scanning speed, laser power and scanning distance) on the temperature field of TC4 alloy melted by selective laser melting
 
-**the influence of process parameters (scanning speed, laser power and scanning distance) on the temperature field of TC4 alloy melted by laser selective zone melting**
+**the influence of process parameters (scanning speed, laser power and scanning distance) on the temperature field of TC4 alloy melted by selective Laser melting**
 
 The purpose of this work is to study "the influence of process parameters (scanning speed, laser power and scanning distance) on the temperature field of TC4 alloy melted by laser selective zone melting”. 
 
@@ -60,7 +60,7 @@ In this paper, numerical simulation of the selective laser melting and forming p
 
 **修正版：**
 Selective Laser Melting (SLM) is an advanced rapid prototyping technology. It uses metal powder to create strong metal parts, similar to Selective Laser Sintering (SLS) but with higher density.
-
+  
 SLM can achieve nearly 100% density using standard metal powders. However, its high-energy laser beam melts powder too quickly. This rapid melting causes large temperature changes, leading to defects like cracks and residual stress.
 
 Therefore, simulating the temperature field in SLM is critical. Using ANSYS software, we control the laser's movement and study how scanning speed affects heat distribution.
@@ -215,3 +215,38 @@ At the end of thesis, the summary of thesis is made, and some suggestions to imp
 Key words: Selective Laser Melting; Simulation; ANSYS; Temperature field; Stress field; Density
 
 
+## 介绍一下你的学校
+
+our school wos built in 1995 and a great number of students have graduated form it .
+
+NOW, many of them have become scientists professors and engineers .
+
+they have achieve great success in development of modern industry and agriculture 
+
+i like the school libary wos built in last years. i often read book in the school libary ,such as some novels.
+
+## 为什么报考我们学校
+
+thanks for asking I reallu want to do my postgraduate studies at wuhan university of technology for a few reasons 
+
+First , is well-known for engineering and materials science ,which matches my intersets and career goals 
+
+Then , they have amazing teachers and cutting-edge reasearch labs 
+
+Also wuhan university of technology focuses on personal skills and team work , so i realized that i would learn a lot od new things . this will help me get a better job in my future
+
+## 介绍一下你
+
+Good moring teacher My name is loujinshang and i am delighted to have this opportunity to introduce myself for the postgraduate pragram at wuhan university of technology 
+
+During my undergraduate studies , I studid Material Forming and control Engineering which benifited me greatly 
+
+Outside of school I have been busy with the volunteer work , which has taught me a lot . including my horizons and learning teamwork 
+
+Additionally I enjoy Reading classic books like Dubliners and so on. 
+
+## 读完研究生的职业规划
+
+After graduating form graduate school , I will use the professional knwledge I have learned at wuhan university of technology to find a job in a company or reasearch institution
+
+In the long run , I consider of becoming a leader of my 
